@@ -15,4 +15,6 @@ A personal project I had wanted to build for a long time and that I can finally 
 
 Developed by palentino.es | @oscardelacuesta
 
+Link: https://www.palentino.es/blog/modern-terminal-ai-una-consola-para-administradores-creada-en-c-con-cmd-powershell-e-inteligencia-artificial/
+
 #ModernCmd #PowerShell #CMD #WindowsServer #SysAdmin #ArtificialIntelligence #SystemsAdministration #Windows #ITPro #Automation
