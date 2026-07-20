@@ -1,4 +1,4 @@
-<img width="1382" height="822" alt="IA-ModernTerminal" src="https://github.com/user-attachments/assets/456d3bec-2982-4012-8cea-5e69392b2d10" />
+
 # MODERN-TERMINAL-AI 1.14.2
 🖥️ ModernCmd: the tool I always wanted to have
 
@@ -20,6 +20,7 @@ web: http://modernterminal-ai.com
 
 <img width="1380" height="820" alt="principal" src="https://github.com/user-attachments/assets/c2f94fc5-95b3-41ce-9e89-10196f595eb9" />
 
+<img width="1382" height="822" alt="IA-ModernTerminal" src="https://github.com/user-attachments/assets/456d3bec-2982-4012-8cea-5e69392b2d10" />
 ![Uploading IA-ModernTerminal.gif…]()
 
 Link: https://www.palentino.es/blog/modern-terminal-ai-una-consola-para-administradores-creada-en-c-con-cmd-powershell-e-inteligencia-artificial/
