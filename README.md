@@ -1,5 +1,5 @@
 
-# MODERN-TERMINAL-AI 1.18.9
+# MODERN-TERMINAL-AI 1.18.11
 🖥️ ModernCmd: the tool I always wanted to have
 
 For a long time, I wanted to create a tool that brought together, in one place, many of the functions I regularly use as a Windows systems administrator.
